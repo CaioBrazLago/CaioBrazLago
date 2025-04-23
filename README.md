@@ -25,7 +25,7 @@ Me chamo Caio Braz, tenho 24 anos e sou natural de Recife. Me formei em Análise
 ---
 
 
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBrazLago&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=CaioBrazLago&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<div align="left">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBrazLago&layout=compact&theme=bear&count_private=true&cache_seconds=60"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=CaioBrazLago&show_icons=true&theme=bear&count_private=true&cache_seconds=60"/>
 </div>
