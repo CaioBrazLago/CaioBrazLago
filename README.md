@@ -1,8 +1,8 @@
 # 👨‍💻 Caio Braz!
   
-**`Estudante de desenvolvimento mobile`**
+**`Estudante de desenvolvimento front-end`**
 
-Me chamo Caio Braz, tenho 24 anos e sou natural de Recife. Me formei em Análise e Desenvolvimento de Sistemas na UNIFBV. Sou apaixonado por tecnologia e atuo como analista de suporte na empresa Petrosystem. Atualmente, estou estudando desenvolvimento mobile, utilizando a linguagem Dart junto com o framework Flutter para desenvolvimento de aplicativos. Estou em busca de uma oportunidade na área de desenvolvimento, onde eu possa contribuir, aprender e crescer na minha carreira.
+Me chamo Caio Braz, tenho 24 anos e sou natural de Recife. Me formei em Análise e Desenvolvimento de Sistemas na UNIFBV. Sou apaixonado por tecnologia e atuo como analista de suporte na empresa Petrosystem. Atualmente, estou estudando desenvolvimento front-end, utilizando a linguagem javascript junto com o framework react. Estou em busca de uma oportunidade na área de desenvolvimento, onde eu possa contribuir, aprender e crescer na minha carreira.
 
   <div> 
   <a href="https://www.instagram.com/caio_braaz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -14,9 +14,7 @@ Me chamo Caio Braz, tenho 24 anos e sou natural de Recife. Me formei em Análise
 ---
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain-wordmark.svg" title="DART" alt="DART" width="40" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgresSQL" alt="PostgresSQL" width="40" height="30"/>&nbsp;
