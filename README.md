@@ -45,6 +45,12 @@ Sou Desenvolvedor Full Stack na Xerlock, atuando no desenvolvimento de APIs REST
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBrazLago&layout=compact&theme=bear&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CaioBrazLago&show_icons=true&theme=bear&count_private=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=CaioBrazLago&show_icons=true&theme=bear"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBrazLago&layout=compact&theme=bear"
+    height="160"
+  />
 </div>
