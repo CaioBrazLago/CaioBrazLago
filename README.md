@@ -21,7 +21,7 @@ Sou Desenvolvedor Full Stack na Xerlock, atuando no desenvolvimento de APIs REST
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="30"/>&nbsp;
 </div>
 
----
+
 
 ## 🗄️ Bancos de Dados
 
@@ -31,7 +31,7 @@ Sou Desenvolvedor Full Stack na Xerlock, atuando no desenvolvimento de APIs REST
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="30"/>&nbsp;
 </div>
 
----
+
 
 ## 🛠️ Ferramentas
 
@@ -40,7 +40,7 @@ Sou Desenvolvedor Full Stack na Xerlock, atuando no desenvolvimento de APIs REST
   <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="30"/>&nbsp;
 </div>
 
----
+
 
 ## 📊 GitHub Stats
 
