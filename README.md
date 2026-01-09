@@ -1,8 +1,8 @@
 # 👨‍💻 Caio Braz!
   
-**`Estudante de desenvolvimento front-end`**
+**`Desenvolvedor Full Stack`**
 
-Me chamo Caio Braz, tenho 24 anos e sou natural de Recife. Me formei em Análise e Desenvolvimento de Sistemas na UNIFBV. Sou apaixonado por tecnologia e atuo como analista de suporte na empresa Petrosystem. Atualmente, estou estudando desenvolvimento front-end, utilizando a linguagem javascript junto com o framework react. Estou em busca de uma oportunidade na área de desenvolvimento, onde eu possa contribuir, aprender e crescer na minha carreira.
+Sou Desenvolvedor Full Stack na Xerlock, atuando no desenvolvimento de APIs REST e sistemas voltados para Data Lake, com foco em performance, organização e escalabilidade.Trabalho com Node.js e React, utilizando Docker para padronização de ambientes e MongoDB e PostgreSQL para persistência de dados. No dia a dia, aplico princípios de SOLID e Clean Architecture, buscando código limpo, manutenível e bem estruturado.Possuo conhecimento em CI/CD e GitHub Actions, com experiência na criação de pipelines para build, testes e deploy.Tenho interesse em aprofundar meus conhecimentos em arquitetura de sistemas, APIs escaláveis e soluções orientadas a dados, sempre buscando evolução técnica e aprendizado contínuo.
 
   <div> 
   <a href="https://www.instagram.com/caio_braaz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
