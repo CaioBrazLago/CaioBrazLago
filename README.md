@@ -22,6 +22,27 @@ Sou Desenvolvedor Full Stack na Xerlock, atuando no desenvolvimento de APIs REST
 
 ---
 
+---
+
+## 🗄️ Bancos de Dados
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="30"/>&nbsp;
+</div>
+
+---
+
+## 🛠️ Ferramentas
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="30"/>&nbsp;
+</div>
+
+---
+
 <div align="left">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBrazLago&layout=compact&theme=bear&count_private=true&cache_seconds=60"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=CaioBrazLago&show_icons=true&theme=bear&count_private=true&cache_seconds=60"/>
