@@ -34,4 +34,4 @@ Sou Desenvolvedor Full Stack na Xerlock, atuando no desenvolvimento de APIs REST
 
 ## 📊 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBrazLago&layout=compact&theme=dark&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBrazLago&layout=compact&theme=dark&langs_count=8&card_width=450)
