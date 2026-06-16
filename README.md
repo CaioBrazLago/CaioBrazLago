@@ -2,7 +2,7 @@
   
 **`Desenvolvedor Full Stack`**
 
-Sou Desenvolvedor Full Stack na Xerlock, atuando no desenvolvimento de APIs REST e sistemas voltados para Data Lake, com foco em performance, organização e escalabilidade. Trabalho com Node.js e React, utilizando Docker para padronização de ambientes e MongoDB e PostgreSQL para persistência de dados. No dia a dia, aplico princípios de SOLID e Clean Architecture, buscando código limpo, manutenível e bem estruturado. Possuo conhecimento em CI/CD e GitHub Actions, com experiência na criação de pipelines para build, testes e deploy. Tenho interesse em aprofundar meus conhecimentos em arquitetura de sistemas, APIs escaláveis e soluções orientadas a dados, sempre buscando evolução técnica e aprendizado contínuo.
+Sou Desenvolvedor Full Stack, atuando no desenvolvimento de APIs REST, com foco em performance, organização e escalabilidade. Trabalho com Node.js e React, utilizando Docker para padronização de ambientes e MongoDB e PostgreSQL para persistência de dados. No dia a dia, aplico princípios de SOLID e Clean Architecture, buscando código limpo, manutenível e bem estruturado. Possuo conhecimento em CI/CD e GitHub Actions, com experiência na criação de pipelines para build, testes e deploy. Tenho interesse em aprofundar meus conhecimentos em arquitetura de sistemas, APIs escaláveis, sempre buscando evolução técnica e aprendizado contínuo.
   
 <div> 
   <a href="mailto:caioanizer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
